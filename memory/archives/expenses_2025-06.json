@@ -1,0 +1,260 @@
+{
+    "Food": [
+        {
+            "amount": 183.8,
+            "description": "Spent \u20b9183.80 on breakfast",
+            "date": "2025-06-13",
+            "time": "9:30"
+        },
+        {
+            "amount": 410.8,
+            "description": "\u20b9410.80 for dinner",
+            "date": "2025-06-13",
+            "time": "19:30"
+        },
+        {
+            "amount": 230.0,
+            "description": "\u20b9230 for breakfast",
+            "date": "2025-06-14",
+            "time": "9:30"
+        },
+        {
+            "amount": 2825.0,
+            "description": "\u20b92825 for lunch",
+            "date": "2025-06-14",
+            "time": "14:30"
+        },
+        {
+            "amount": 245.0,
+            "description": "\u20b9245 for dinner",
+            "date": "2025-06-14",
+            "time": "19:30"
+        },
+        {
+            "amount": 399.25,
+            "description": "\u20b9399.25 zomato",
+            "date": "2025-06-15",
+            "time": "14:30"
+        },
+        {
+            "amount": 460.15,
+            "description": "\u20b9460.15 for pizza",
+            "date": "2025-06-15",
+            "time": "20:00"
+        },
+        {
+            "amount": 64.0,
+            "description": "spent \u20b964 on breakfast",
+            "date": "2025-06-16",
+            "time": "10:30"
+        },
+        {
+            "amount": 92.0,
+            "description": "spent \u20b992 on lunch",
+            "date": "2025-06-16",
+            "time": "13:55"
+        },
+        {
+            "amount": 281.65,
+            "description": "Dinner",
+            "date": "2025-06-16",
+            "time": "20:15"
+        },
+        {
+            "amount": 85.0,
+            "description": "Lunch",
+            "date": "2025-06-17",
+            "time": "13:36"
+        },
+        {
+            "amount": 45.0,
+            "description": "Breakfast",
+            "date": "2025-06-18",
+            "time": "9:50"
+        },
+        {
+            "amount": 424.0,
+            "description": "Kfc dinner",
+            "date": "2025-06-18",
+            "time": "19:30"
+        },
+        {
+            "amount": 246.3,
+            "description": "Lunch",
+            "date": "2025-06-19",
+            "time": "14:12"
+        },
+        {
+            "amount": 260.65,
+            "description": "Dinner",
+            "date": "2025-06-19",
+            "time": "19:30"
+        },
+        {
+            "amount": 252.65,
+            "description": "Lunch",
+            "date": "2025-06-20",
+            "time": "14:22"
+        },
+        {
+            "amount": 279.55,
+            "description": "Breakfast",
+            "date": "2025-06-21",
+            "time": "9:53"
+        },
+        {
+            "amount": 279.55,
+            "description": "Breakfast",
+            "date": "2025-06-22",
+            "time": "9:29"
+        },
+        {
+            "amount": 354.7,
+            "description": "Dinner",
+            "date": "2025-06-22",
+            "time": "19:14"
+        },
+        {
+            "amount": 61.0,
+            "description": "Breakfast",
+            "date": "2025-06-23",
+            "time": "9:45"
+        },
+        {
+            "amount": 111.0,
+            "description": "Lunch",
+            "date": "2025-06-23",
+            "time": "13:10"
+        },
+        {
+            "amount": 248.05,
+            "description": "Dinner",
+            "date": "2025-06-23",
+            "time": "19:15"
+        }
+    ],
+    "Groceries": [
+        {
+            "amount": 468.0,
+            "description": "\u20b9468 on grocery",
+            "date": "2025-06-13",
+            "time": "10:30"
+        },
+        {
+            "amount": 1076.0,
+            "description": "Groceries",
+            "date": "2025-06-17",
+            "time": "17:06"
+        },
+        {
+            "amount": 1273.11,
+            "description": "Groceries",
+            "date": "2025-06-20",
+            "time": "17:11"
+        }
+    ],
+    "Bills": [
+        {
+            "amount": 285.0,
+            "description": "I paid \u20b9285 towards water bill",
+            "date": "2025-06-13",
+            "time": "12:30"
+        },
+        {
+            "amount": 979.0,
+            "description": "Airtel internet pack",
+            "date": "2025-06-22",
+            "time": "8:59"
+        }
+    ],
+    "Transport": [
+        {
+            "amount": 770.0,
+            "description": "\u20b9770 for cab",
+            "date": "2025-06-14",
+            "time": "12:20"
+        },
+        {
+            "amount": 660.0,
+            "description": "\u20b9660 for cab back home",
+            "date": "2025-06-14",
+            "time": "16:30"
+        },
+        {
+            "amount": 175.0,
+            "description": "\u20b9175 for cab to work",
+            "date": "2025-06-16",
+            "time": "10:00"
+        },
+        {
+            "amount": 90.0,
+            "description": "\u20b990 for cab to return home from work",
+            "date": "2025-06-16",
+            "time": "15:55"
+        },
+        {
+            "amount": 126.0,
+            "description": "Cab",
+            "date": "2025-06-17",
+            "time": "10:55"
+        },
+        {
+            "amount": 160.0,
+            "description": "Cab",
+            "date": "2025-06-18",
+            "time": "9:35"
+        },
+        {
+            "amount": 80.0,
+            "description": "Cab to Home",
+            "date": "2025-06-17",
+            "time": "15:55"
+        },
+        {
+            "amount": 132.0,
+            "description": "Cab to Home",
+            "date": "2025-06-18",
+            "time": "16:35"
+        },
+        {
+            "amount": 90.0,
+            "description": "Cab",
+            "date": "2025-06-23",
+            "time": "9:30"
+        },
+        {
+            "amount": 129.0,
+            "description": "City",
+            "date": "2025-06-22",
+            "time": "12:05"
+        },
+        {
+            "amount": 338.0,
+            "description": "Cab",
+            "date": "2025-06-22",
+            "time": "6:15"
+        },
+        {
+            "amount": 85.0,
+            "description": "Cab",
+            "date": "2025-06-23",
+            "time": "16:15"
+        }
+    ],
+    "Education": [
+        {
+            "amount": 255.0,
+            "description": "Bought a dictionary for \u20b9255",
+            "date": "2025-06-15",
+            "time": "16:00"
+        }
+    ],
+    "Amazon Shopping": [
+        {
+            "amount": 600,
+            "description": "Amazon",
+            "date": "2025-06-23",
+            "time": "23:01"
+        }
+    ]
+}

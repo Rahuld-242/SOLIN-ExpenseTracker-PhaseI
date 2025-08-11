@@ -1,0 +1,22 @@
+{
+    "groceries": [
+        {
+            "amount": 200,
+            "description": "general shopping",
+            "date": "2024-04-30",
+            "time": "19:30"
+        },
+        {
+            "amount": 200,
+            "description": "general shopping",
+            "date": "2024-04-30",
+            "time": "19:30"
+        },
+        {
+            "amount": 200,
+            "description": "general shopping",
+            "date": "2024-04-30",
+            "time": "19:30"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Food": "Meals, snacks, restaurants, cafes, delivery, Swiggy, Zomato",
+    "Transport": "Cabs, Uber, Ola, bus, train, fuel, metro, autorickshaw, flights",
+    "Bills": "Electricity, water, gas, broadband, mobile, DTH, rent",
+    "Groceries": "Vegetables, fruits, rice, supermarket, Big Bazaar, daily items",
+    "Health": "Medicines, pharmacy, doctor visits, clinic, hospital",
+    "Education": "Tuition, coaching, online courses, Udemy, textbooks, school fees",
+    "Investment": "Mutual funds, SIPs, stocks, equity, Zerodha, trading",
+    "Insurance": "LIC, premiums, life insurance, health cover, vehicle insurance",
+    "Shopping": "Amazon, Flipkart, clothes, shoes, electronics, accessories",
+    "Social": "Gifts, donations, parties, family functions, celebrations",
+    "Entertainment": "Netflix, cinema, games, YouTube Premium, Spotify, events",
+    "EMI": "Loan EMI, home loan, bike loan, car installment, credit card EMI",
+    "Savings": "Deposits, recurring savings, piggy bank, bank transfer to savings"
+}

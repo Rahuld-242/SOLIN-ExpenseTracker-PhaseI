@@ -1,0 +1,13 @@
+{"timestamp": "2025-07-17T20:28:42.727238", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Groceries", "amount": 1256, "description": "Bought groceries", "date": "2025-07-17", "time": "07:45"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:30:26.590149", "user_input": "view_expenses", "action": "view_expenses", "params": {}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:32:06.913410", "user_input": "view_expenses", "action": "view_expenses", "params": {"date": "2025-07-12"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:33:24.151819", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Transport", "amount": 100, "description": "Cab work", "date": "2025-07-16", "time": "09:40"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:35:18.336730", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Food", "amount": 63, "description": "Breakfast", "date": "2022-07-16", "time": "11:05"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:37:04.416109", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Food", "amount": 71, "description": "Lunch", "date": "2025-07-16", "time": "14:20"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:38:54.138959", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Food", "amount": 252, "description": "Lunch", "date": "2022-07-16", "time": "15:36"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:41:17.219840", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "groceries", "amount": 1256, "description": "Bought groceries", "date": "2025-07-17", "time": "07:45"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:43:11.091180", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Food", "amount": 193.59, "description": "Lunch", "date": "2025-07-17", "time": "14:13"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:44:54.310003", "user_input": "view_expenses", "action": "view_expenses", "params": {}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:45:15.360161", "user_input": "view_expenses", "action": "view_expenses", "params": {"date": "2025-07-16"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:46:02.005685", "user_input": "add_expenses", "action": "add_expenses", "params": {"category": "Food", "amount": 372.55, "description": "Dinner", "date": "2025-07-17", "time": "19:12"}, "output": "Success!"}
+{"timestamp": "2025-07-17T20:48:38.028998", "user_input": "view_budget", "action": "view_budget", "params": {"mode": "all", "category": null}, "output": "Success!"}

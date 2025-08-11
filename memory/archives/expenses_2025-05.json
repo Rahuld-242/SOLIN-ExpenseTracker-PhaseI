@@ -1,0 +1,10 @@
+{
+    "Food": [
+        {
+            "amount": 510.0,
+            "description": "Breakfast",
+            "date": "2025-05-01",
+            "time": "8:30"
+        }
+    ]
+}
