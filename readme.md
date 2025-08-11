@@ -55,9 +55,15 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-> Phase 1 minimal deps: `requests`, `spacy`.  
+> Phase 1 minimal deps: `requests`, `spacy`, `ollama`.  
 > If you use spaCy models, install one (example):  
 > `python -m spacy download en_core_web_sm`
+> SOLIN Phase 1 was tested with Ollama v0.3.11 or newer
+> Check your version:
+> `ollama --version`
+> Install Ollama from: https://ollama.com/download
+> After installation, pull the required LLaMA 3 model:
+> `ollama pull llama3`
 
 ---
 
